@@ -1110,3 +1110,25 @@ org.eclipse.core.runtime.CoreException: Launch configuration Programa (1) refere
 2022-12-02 04:39:17,256 [Worker-146: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
 2022-12-02 04:39:17,385 [Worker-146: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
 2022-12-02 04:39:17,387 [Worker-146: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/romeuboninineto/Documents/CURSOSPRINGBOOTHIBERNATE/projetos/cursomc/src/test/resources
+2022-12-02 14:27:57,149 [Worker-165: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-02 14:27:57,377 [Worker-165: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-02 14:27:57,380 [Worker-165: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/romeuboninineto/Documents/CURSOSPRINGBOOTHIBERNATE/projetos/cursomc/src/test/resources
+2022-12-02 14:46:11,785 [Worker-179: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-02 14:46:12,006 [Worker-179: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-02 14:46:12,007 [Worker-179: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/romeuboninineto/Documents/CURSOSPRINGBOOTHIBERNATE/projetos/cursomc/src/test/resources
+2022-12-02 14:56:19,717 [Worker-181: Launching cursomc - CursomcApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-02 14:56:19,799 [Worker-181: Launching cursomc - CursomcApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-02 14:56:19,801 [Worker-181: Launching cursomc - CursomcApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/romeuboninineto/Documents/CURSOSPRINGBOOTHIBERNATE/projetos/cursomc/src/test/resources
+2022-12-02 20:26:06,020 [Worker-199: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-02 20:26:06,218 [Worker-199: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-02 20:26:06,220 [Worker-199: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/romeuboninineto/Documents/CURSOSPRINGBOOTHIBERNATE/projetos/cursomc/src/test/resources
+2022-12-02 21:04:59,141 [Worker-208: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-02 21:04:59,335 [Worker-208: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-02 21:04:59,338 [Worker-208: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/romeuboninineto/Documents/CURSOSPRINGBOOTHIBERNATE/projetos/cursomc/src/test/resources
+2022-12-10 01:24:37,148 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-12-10 01:30:59,279 [Worker-6: Launching cursomc - CursomcApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-10 01:30:59,347 [Worker-6: Launching cursomc - CursomcApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-10 01:30:59,351 [Worker-6: Launching cursomc - CursomcApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/romeuboninineto/Documents/CURSOSPRINGBOOTHIBERNATE/projetos/cursomc/src/test/resources
+2022-12-10 03:18:40,671 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-10 03:18:40,674 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-10 03:18:40,677 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/romeuboninineto/Documents/CURSOSPRINGBOOTHIBERNATE/projetos/cursomc/src/test/resources
